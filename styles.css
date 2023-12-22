@@ -20,6 +20,10 @@
     color: rgba(111, 103, 205, 0.8);
 }
 
+.content {
+    position: relative;
+}
+
 .reasonable-question {
     margin: 10px 10px;
     padding: 10px 10px;
